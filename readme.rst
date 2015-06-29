@@ -93,7 +93,7 @@ Per a obtenir el codi font
 
        $ python generastats.py
 
-   **Nota**: aquest script està encara sense acabar i **no funciona**.
-   Mira la capçalera del seu codi font per més detalls
+   **Nota**: aquest darrer script està encara sense acabar i **no
+   funciona**.  Mira la capçalera del seu codi font per més detalls
 
 
