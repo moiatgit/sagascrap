@@ -1,6 +1,6 @@
-############
-SAGA Scratch
-############
+##########
+SAGA Scrap
+##########
 
 Aquest projecte és un intent d'extreure informació del SAGA per part
 d'un tutor **desesperat**.
